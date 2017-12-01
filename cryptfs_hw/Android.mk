@@ -12,7 +12,7 @@ commonSharedLibraries := \
                         libutils \
                         libdl \
                         libhardware \
-						liblog
+                        liblog
 commonIncludes := \
                   hardware/libhardware/include/hardware/
 
